@@ -1,6 +1,8 @@
 # Roadmap de Estudos — SQL para Dados
 
-Este repositório organiza uma trilha de estudos em **SQL**, com foco em fundamentos, consultas analíticas, modelagem, performance e aplicação em projetos de dados.
+A prática é realizada com base no banco Postgre e pgAdmin 4 como interface gráfica, ambos estão rodando em um conteiener docker. Estou usando o database do youtuber 'Téo me Why' 
+
+Este repositório organiza uma trilha de estudos em **SQL**, com foco consultas, resolução de exercícios e aprendizado da linguagem SQL, futuramente irei inserir algumas modelagens que fiz como exercício, alheios a faculdade.
 
 O objetivo deste roadmap é servir como checklist de progresso, guia de revisão e base para construção de portfólio em análise de dados, ciência de dados, engenharia de dados e bancos relacionais.
 
